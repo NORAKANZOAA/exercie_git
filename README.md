@@ -1,1 +1,1 @@
-# exercie_git
+# exercice_git
